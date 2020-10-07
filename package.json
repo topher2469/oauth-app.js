@@ -21,7 +21,7 @@
   "dependencies": {
     "@octokit/auth-oauth-app": "^3.0.4",
     "@octokit/core": "^2.4.1",
-    "@octokit/oauth-authorization-url": "^4.0.1",
+    "@octokit/oauth-authorization-url": "^4.1.0",
     "@types/btoa-lite": "^1.0.0",
     "btoa-lite": "^1.0.0",
     "fromentries": "^1.2.0",
